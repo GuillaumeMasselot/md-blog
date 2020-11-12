@@ -1,15 +1,15 @@
 export default {
   siteMetadata: {
-    title: "Next.js Starter Blog",
+    title: "Skas painting blog",
     author: {
-      name: "Jose Felix",
-      summary: "who works building clean user interfaces with React.",
+      name: "Skas",
+      summary: "Paints stuff",
     },
-    description: "A blog created with Next.js and Tailwind.css",
-    siteUrl: "https://nextjs-starter-blog-demo.netlify.app/",
+    description: "Un portfolio de peintures de figurines",
+    siteUrl: "",
     language: "fr-FR",
     social: {
-      twitter: "Jose_R_Felix",
+      twitter: "skasgwent",
     },
   },
 };
