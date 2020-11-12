@@ -23,3 +23,21 @@ p {
   -webkit-filter: grayscale(80%);
   filter: grayscale(80%);
 }
+
+.postcontent img {
+  object-fit: contain;
+}
+
+.postcontent {
+  max-width: none !important;
+}
+
+.postcontent h4 {
+  text-align: center;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.postcontent h2 {
+  text-align: center;
+}

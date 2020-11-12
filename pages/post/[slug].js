@@ -30,14 +30,14 @@ export default function Post({ post, frontmatter, nextPost, previousPost }) {
       />
 
       <article>
-        <header className="mb-8">
+        <header className="mb-8 text-center">
           <h1 className="mb-2 text-6xl font-black leading-none font-display">
             {frontmatter.title}
           </h1>
           <p className="text-sm">{frontmatter.date}</p>
         </header>
         <ReactMarkdown
-          className="mb-4 prose-sm prose sm:prose lg:prose-lg"
+          className="w-full mb-4 prose-sm prose sm:prose lg:prose-lg postcontent"
           escapeHtml={false}
           source={post.content}
           renderers={{ code: CodeBlock, image: MarkdownImage }}
