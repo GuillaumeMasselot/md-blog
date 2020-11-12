@@ -8,7 +8,7 @@ export default function Navbar() {
           return router.asPath === p;
       });
       if (isPath) {
-          return "block mt-4 lg:inline-block lg:mt-0 hover:text-black mr-4 font-bold text-black";
+          return "block mt-4 lg:inline-block lg:mt-0 hover:text-black mr-4 font-bold text-gray-700";
       }
       return "block mt-4 lg:inline-block lg:mt-0 hover:text-black mr-4 font-normal text-gray-700";
     }
@@ -23,7 +23,7 @@ export default function Navbar() {
                 </a>
               </Link>
             </div>
-            <div className="font-semibold tracking-tight text-sm text-gray-600 ">Painter. Boardgame lover.</div>
+            <div className="font-semibold tracking-tight text-sm text-gray-600 ">Some. Random. Inspirational. Words.</div>
           </div>
           <div className="block text-sm">
             <Link href="/portfolio">

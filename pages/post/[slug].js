@@ -37,7 +37,7 @@ export default function Post({ post, frontmatter, nextPost, previousPost }) {
           <p className="text-sm">{frontmatter.date}</p>
         </header>
         <ReactMarkdown
-          className="w-full mb-4 prose-sm prose sm:prose lg:prose-lg postcontent"
+          className="w-full mb-4 prose-sm prose sm:prose lg:prose-lg justi postcontent"
           escapeHtml={false}
           source={post.content}
           renderers={{ code: CodeBlock, image: MarkdownImage }}
