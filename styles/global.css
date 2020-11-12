@@ -12,6 +12,11 @@ p {
   src: url('/Painted.ttf');
 }
 
+@font-face {
+  font-family: 'PaintedMessy';
+  src: url('/PaintedMessy.ttf');
+}
+
 /* Styles for lazy loaded images */
 .blur-up {
   -webkit-filter: blur(5px);
@@ -21,6 +26,10 @@ p {
 
 .logo-font {
   font-family: 'Painted';
+}
+
+.logo-font-messy {
+  font-family: 'PaintedMessy';
 }
 
 .blur-up.lazyloaded {
