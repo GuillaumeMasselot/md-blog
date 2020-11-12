@@ -16,7 +16,7 @@ export default function Navbar() {
       <header className="bg-white">
         <nav className="flex items-center justify-between flex-wrap p-6 mb-10">
           <div className="items-center flex-shrink-0">
-            <div className="font-semibold text-xl tracking-tight text-black">
+            <div className="font-semibold text-xl tracking-tight text-black logo-font text-5xl">
               <Link href="/">
                 <a>
                   Skas

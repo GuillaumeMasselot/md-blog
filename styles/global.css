@@ -7,11 +7,20 @@ p {
   @apply font-light;
 }
 
+@font-face {
+  font-family: 'Painted';
+  src: url('/Painted.ttf');
+}
+
 /* Styles for lazy loaded images */
 .blur-up {
   -webkit-filter: blur(5px);
   filter: blur(5px);
   transition: filter 500ms ease-in, -webkit-filter 500ms ease-in;
+}
+
+.logo-font {
+  font-family: 'Painted';
 }
 
 .blur-up.lazyloaded {
