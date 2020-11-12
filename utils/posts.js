@@ -21,6 +21,14 @@ function getFormattedDate(date) {
   return formattedDate;
 }
 
+export function getPicsFolders() {
+  // Get all posts folders located in `content/pics`
+  const postsFolders = fs
+    .readdirSync(`${process.cwd()}/content/pics`);
+
+  return postsFolders;
+}
+
 export function getSortedPosts() {
   const postFolders = getPostsFolders();
 
@@ -54,6 +62,10 @@ export function getSortedPosts() {
     );
 
   return posts;
+}
+
+export function getSortedPics() {
+  return getPicsFolders();
 }
 
 export function getPostsSlugs() {

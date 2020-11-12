@@ -2,14 +2,6 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-a {
-  @apply text-neon-orange;
-}
-
-a:hover {
-  @apply underline;
-}
-
 span,
 p {
   @apply font-light;
@@ -25,4 +17,9 @@ p {
 .blur-up.lazyloaded {
   -webkit-filter: blur(0);
   filter: blur(0);
+}
+
+.mini.blur-up.blur-up.lazyloaded:hover {
+  -webkit-filter: grayscale(80%);
+  filter: grayscale(80%);
 }
