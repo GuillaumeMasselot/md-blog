@@ -8,9 +8,9 @@ export default function ArticlePreview({ title, description, date, author, minia
             <div className="h-48 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden" title="gwaien">
                 <Image
                     alt={description}
-                    src={require(`../content/assets/${miniature}`)}
-                    webpSrc={require(`../content/assets/${miniature}?webp`)}
-                    previewSrc={require(`../content/assets/${miniature}?lqip`)}
+                    src={require(`../content/pics/${miniature}`)}
+                    webpSrc={require(`../content/pics/${miniature}?webp`)}
+                    previewSrc={require(`../content/pics/${miniature}?lqip`)}
                     className="w-full h-48 object-cover"/>
                 </div>
             <div className="w-full border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal">

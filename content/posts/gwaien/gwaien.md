@@ -3,7 +3,7 @@ title: Gwaien de Super Fantasy Brawl
 description: La première fig du jeu
 date: 2020-11-11T11:00:00.000Z
 author: Skas
-miniature: gwaienbig.jpeg
+miniature: gwaien.png
 ---
 
 ## Gwaien
@@ -16,4 +16,4 @@ Au programme de chaque post (sauf celui là car le combo flemme + mémoire défa
 
 En attendant, voici la socière glasscanon. Je suis parti sur le schema de couleur de la carte (et ça sera plus ou moins le cas pour chaque fig de la boîte) et j'ai fait un de mes premiers OSL...
 
-![Gwaien](gwaien.jpeg)
+![Gwaien](gwaien.png)

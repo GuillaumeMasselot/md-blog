@@ -14,7 +14,7 @@ miniature: balrog.png
 ![Troll](troll.png)
 ###### Un troll des montagnes
 
-![BalinDis](balin_dis.png)
+![BalinDis](balindis.png)
 ###### Balin et Dis
 
 ![Gandalf](gandalf.png)

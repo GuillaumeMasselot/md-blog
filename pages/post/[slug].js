@@ -14,10 +14,9 @@ const CodeBlock = ({ language, value }) => {
 const MarkdownImage = ({ alt, src }) => (
   <Image
     alt={alt}
-    src={require(`../../content/assets/${src}`)}
-    webpSrc={require(`../../content/assets/${src}?webp`)}
-    previewSrc={require(`../../content/assets/${src}?lqip`)}
-    className="w-full"
+    src={require(`../../content/pics/${src}`)}
+    webpSrc={require(`../../content/pics/${src}?webp`)}
+    previewSrc={require(`../../content/pics/${src}?lqip`)}
   />
 );
 
@@ -37,7 +36,7 @@ export default function Post({ post, frontmatter, nextPost, previousPost }) {
           <p className="text-sm">{frontmatter.date}</p>
         </header>
         <ReactMarkdown
-          className="w-full mb-4 prose-sm prose sm:prose lg:prose-lg justi postcontent"
+          className="w-full mb-4 prose-sm prose sm:prose lg:prose-lg postcontent"
           escapeHtml={false}
           source={post.content}
           renderers={{ code: CodeBlock, image: MarkdownImage }}
