@@ -49,8 +49,6 @@ p {
 
 .postcontent img {
   margin-bottom: 5px !important;
-  max-width: 500px;
-  max-height: 500px;
   margin-left: auto;
   margin-right:auto;
 }
