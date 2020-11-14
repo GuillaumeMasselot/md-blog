@@ -8,16 +8,16 @@ export default function Portfolio({pics}) {
     <Layout>
         <SEO title="Portfolio" />
         <div className="uppercase text-center tracking-wide text-4xl mb-10">Portfolio</div>
-        <div className="w-full lg:max-w-full lg:flex flex-wrap justify-center">
+        <div className="w-full flex flex-wrap justify-center">
           {pics.map(p => (
-            <div key={p} className="flex-none bg-cover text-center overflow-hidden mx-2 my-2 shadow-lg" title={p}>
+            <div key={p} className="flex-none bg-cover text-center overflow-hidden mx-2 my-2" title={p}>
               <a href={require(`../content/pics/${p}`)}>
                 <Image
                     alt="lala"
                     src={require(`../content/pics/${p}`)}
                     webpSrc={require(`../content/pics/${p}?webp`)}
                     previewSrc={require(`../content/pics/${p}?lqip`)}
-                    className="w-64 h-64 object-cover mini"/>
+                    className="w-64 h-64 object-cover mini shadow-lg"/>
                 </a>
             </div>
           ))}
