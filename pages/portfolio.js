@@ -8,7 +8,7 @@ export default function Portfolio({pics}) {
     <Layout>
         <SEO title="Portfolio" />
         <div className="uppercase text-center tracking-wide text-4xl mb-10">Portfolio</div>
-        <div className="w-full flex flex-wrap justify-center">
+        <div className="w-full flex flex-grow flex-wrap justify-center">
           {pics.map(p => (
             <div key={p} className="flex-none bg-cover text-center overflow-hidden mx-2 my-2" title={p}>
               <a href={require(`../content/pics/${p}`)}>
