@@ -43,11 +43,11 @@ export default function Navbar() {
                 </a>
               </Link>
             </div>
-            {/* <Menu right burgerButtonClassName={ "block sm:block md:hidden lg:hidden xl:hidden" }>
+            <Menu right burgerButtonClassName={ "block sm:block md:hidden lg:hidden xl:hidden" }>
               <a id="portfolio" className="menu-item" href="/portfolio">Portfolio</a>
               <a id="blog" className="menu-item" href="/blog">Blog</a>
               <a id="contact" className="menu-item" href="/contact">Contact</a>
-            </Menu> */}
+            </Menu>
           </div>
         </nav>
       </header>
