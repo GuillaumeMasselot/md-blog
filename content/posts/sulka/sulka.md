@@ -12,7 +12,7 @@ Bon allez on se lance pour un premier vrai post sur le blog !
 
 Je continue mon _paintjob_ sur les fig de SFB avec un autre perso que j'affectionne tout particulièrement à la fois pour ses capacités que son design : j'ai nommé Sulka.
 
-Petit trip japonisais sur ce perso aux couleurs bien pétantes et qui me changent pas mal des couleurs _classiques_ que j'ai pu employer jusque là. C'est un peu plus _cartoony_ et moins _gritty_ que la palette LotR.
+Petit trip japonisant sur ce perso aux couleurs bien pétantes et qui me changent pas mal des couleurs _classiques_ que j'ai pu employer jusque là. C'est un peu plus _cartoony_ et moins _gritty_ que la palette LotR.
 
 ![Carte](posts/sulka/sulka_card.png)
 
@@ -81,7 +81,7 @@ Les couleurs principales sont :
 
 - Magenta de __Kimera Kolors__
 - Phtalo Green de __Kimera Kolors__
-- Yellow Ocre de __Vallejo_
+- Yellow Ocre de __Vallejo__
 - Green Sky de __Vallejo__
 
 Je mets pas tout sinon je dois faire une liste géante mais celles-là sont celles que j'ai le plus utilisé.
