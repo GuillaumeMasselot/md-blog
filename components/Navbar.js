@@ -22,7 +22,7 @@ export default function Navbar() {
                 Skas
               </a>
             </Link>
-            <div className="font-semibold tracking-tight text-sm text-gray-600 ">Some. Random. Inspirational. Words.</div>
+            <div className="font-semibold tracking-tight text-sm text-gray-600 ">Mini painter. Brush eater.</div>
           </div>
          
           <div>

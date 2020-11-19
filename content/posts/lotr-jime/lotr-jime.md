@@ -3,19 +3,19 @@ title: Le Seigneur des Anneaux - Voyage en Terres du Milieu
 description: Avancement sur l'extension Shadowed Paths
 date: 2020-11-10T11:00:00.000Z
 author: Skas
-miniature: balrog.png
+miniature: portfolio/balrog.png
 ---
 
 ## Avancement sur l'extension Shadowed Paths
 
-![Balrog](balrog.png)
+![Balrog](portfolio/balrog.png)
 ###### Le balrog
 
-![Troll](troll.png)
+![Troll](portfolio/troll.png)
 ###### Un troll des montagnes
 
-![BalinDis](balindis.png)
+![BalinDis](portfolio/balindis.png)
 ###### Balin et Dis
 
-![Gandalf](gandalf.png)
+![Gandalf](portfolio/gandalf.png)
 ###### Gandalf
