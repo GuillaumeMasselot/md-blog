@@ -1,12 +1,12 @@
 ---
 title: Sulka de Super Fantasy Brawl
-description: Soutien de contrôle
+description: Le magenta qui claque la rétine
 date: 2020-11-19T11:00:00.000Z
 author: Skas
-miniature: portfolio/sulka.png
+miniature: portfolio/6_sulka.png
 ---
 
-## Sulka - Soutien de contrôle
+## Sulka
 
 Bon allez on se lance pour un premier vrai post sur le blog !
 
@@ -96,4 +96,4 @@ Les couleurs qui m'ont beaucoup servi pour les éclaircissements et ombrages :
 
 ### Rendu final
 
-![colors](portfolio/sulka.png)
+![colors](portfolio/6_sulka.png)
