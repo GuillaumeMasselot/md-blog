@@ -57,7 +57,7 @@ Dans le même temps je choisis de changer la couleur de la peau de Sulka en ajou
 
 Comme toujours la partie la plus fun et celle qui finit vraiment de donner vie à une fig, tout en lui donnant cette touche un peu plus soignée.
 
-Petite mésaventure sur la peauu de Sulka puisque j'ai passé une soirée (3h) à essayer des choses pour au final tout recouvrir car je n'arrivais pas au rendu souhaité. Clairement une soirée _ragequit_ qui m'a bien gonflé.
+Petite mésaventure sur la peau de Sulka puisque j'ai passé une soirée (3h) à essayer des choses pour au final tout recouvrir car je n'arrivais pas au rendu souhaité. Clairement une soirée _ragequit_ qui m'a bien gonflé.
 
 Au final le rendu sur la peau est toujours pas celui que je souhaite mais cette soirée est tellement traumatisante que j'ai préféré "limiter la casse" en m'arrêtant là. A ce stade je commence à vraiment avoir envie de boucler la fig et de passer à la suivante :P
 
@@ -96,4 +96,4 @@ Les couleurs qui m'ont beaucoup servi pour les éclaircissements et ombrages :
 
 ### Rendu final
 
-![colors](portfolio/6_sulka.png)
+![Final](portfolio/6_sulka.png)
