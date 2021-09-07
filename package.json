@@ -1,7 +1,7 @@
 {
-  "name": "nextjs-blog-starter",
+  "name": "nextjs-blog-paint",
   "version": "0.2.0",
-  "description": "A Next.js template for a blog website.",
+  "description": "A Next.js template for a blog website about painting.",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -34,10 +34,9 @@
   },
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jfelix61/nextjs-starter-blog.git"
+    "type": "git"
   },
-  "homepage": "https://github.com/Jfelix61/nextjs-starter-blog#readme",
+  "homepage": "https://skas-painting.vercel.app/",
   "keywords": [
     "next.js",
     "blog",
